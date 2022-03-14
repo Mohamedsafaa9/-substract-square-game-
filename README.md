@@ -1,1 +1,0 @@
-# -substract-square-game-
